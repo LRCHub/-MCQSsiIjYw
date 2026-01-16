@@ -1,105 +1,62 @@
-# MORE MORE JUMP! – Booo!
+# MORE MORE JUMP！ – Booo!（feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン）
 
-> **歌詞登録ステータス：プレーン歌詞のみ**
+> **歌詞登録ステータス：同期歌詞あり**
 
-```
-Ms. Dynamite inside the place
-Listen to the Dynamite
-Ms. Dynamite, Ms. Dynamite,
-Ms. Dynamite inside the place
-Oh, with the Sticky
-And you know that and you know we gon' get them crowd hype
-And you know that and you know we gon' get them crowd hype
-And you know that and you know we gon' get them crowd hyper
-
-Hyper, hy, hy, hyper inside the place, hyper inside the place
-Hy, hy, hyper and we tell them, we tell dem
-
-Getta widda rhythm getta wid the drum
-Getta widda rhythm getta wid the drum
-I fight on my tongue like you not want some
-Let my lyrical tongue be your medicine
-Getta widda rhythm getta wid the drum
-
-Getta widda rhythm getta wid the drum
-I fight on my tongue like you not want some
-Let my lyrical tongue be your medicine
-
-Feel the bad gyal bass
-Feel the bad gyal bass injection
-Here's the DJ wid the boom selection
-This ones psychotic it should be sectioned
-It's the rage insane wen I feel no pain
-Excuse while I get into your brain
-
-Let the bass vibrate them veins
-Go fuck up like it was cocaine whats my name...
-Dib e dibbie dy-na-mi-tie 2 get the people get them lively, lively
-Lively, lively
-
-En den we shout booooo inna yo ed
-Lyrical shot, get up I sed
-Gotta do a song, dat everybody shud make
-
-Da gunman run en call friends I says
-Den we shout booo inna yo ed
-Lyrical shot, get up I sed
-Gottaa do a song dat everybody shud make
-Da gunman run en call friends I says
-
-Gettaa widda little bitta base an drum
-Hear nah ya so fuck da poor en fuck da gun
-Becuzza back in da day woz all about fun
-Tekin ya bak on ma lyrical tongues
-My only weapon, fucked hard up at fills
-A thrill, no cost don't kill
-Yeh stan still
-I'mma lick ya widda vibe datch you can feel
-Becuz itz not about da bad attitudes
-An its not about da bad vibes
-No matta who you r an no matta wat ya do
-U can get sum ova natural high
-It's not about a dem attitudes
-It's not about dem bad vibes
-No matta who you r (who you r)
-Wat ya do (wat ya do)
-I'mma nah care wot ya crib
-No dogs aloud in a d race assassan
-But ders most be'aviour, boy
-Pleas sort dem, fuck hurrys
-About ya grab breas an gay en wonder why
-She, vex so wen ya grabby grabby
-Tel him flea if he step direspectfully (it's he) had enuff
-Tellin us, tellin me, tellin me, tell him flea
-Tho sum gyals think dem 2 nice
-Dey stan up innna place demma pay big price
-Dark talk but demma cold like ice
-Try screw bout ya scary az spies
-Man in a venue demma 2 rah rah
-Wen dey wanna get it at a pu-na-na
-An I'm like cha cuz dem blah blah
-Dats it, I rest, me not a rah rah
-Rah rah it bumba bumba clart it, it
-Gedda wid da rhythm now get me started
-
-Me nah cum fer dex me jus on raves, hey
-Nat fuss nat fuss ta fight a girlfrend top
-Ya nice is nat right a
-Let enuff ta every brotha in sight a
-I don't mean ta b impolite a
-But its like ya begga beggin' fer ya breas 2nite
-
-Lisen 2 the dy-na-mite
-Lisen 2 the dy-na-mite
-Lisen 2 the dy-na-mite, inside the place
-It's not about about the fire lit
-Not about tha, drugs
-It's jus about, about the luv
-Luv 4 the music
-Luv 4 the bass
-Ba yeh ace
-There's no need
-4 this badness in the place
-Dibby D, d dy-na-mite-ee
-Ta get da ppl demma lively BOOO
+```lrc
+[00:03.80] さん はい！
+[00:06.80] 
+[00:13.87] また始まった忘れんぼう
+[00:17.39] 手帳の隅っこだってカレンダーにだって
+[00:20.18] マルしておいたのに
+[00:24.68] 
+[00:22.52] どうして怒ってるかおわかりですか？
+[00:26.02] 謝っても許さないんだからね
+[00:29.88] もう知らない
+[00:32.88] 
+[00:30.96] どこにでもあるような
+[00:33.25] どこにもないような
+[00:35.46] シアワセ探しはまだ始まったばっか
+[00:39.82] 楽しみにしてたプリンだって
+[00:41.76] 君に食べられる為に生まれた
+[00:44.08] わけじゃなかったのにな
+[00:49.58] 
+[00:47.87] それちょっとだけちょうだい
+[00:50.35] ねえひと口だけちょうだいなんて
+[00:53.03] あまりにも都合が良すぎじゃないの？ (Booo! Booo!)
+[00:57.24] 飽きちゃったらいらない
+[00:59.20] 残しちゃったらごめんなさいって
+[01:01.68] ...君のせいかしら？
+[01:07.18] 
+[01:12.84] 一体全体、私のことを
+[01:16.39] どれくらい愛してる？って 言葉じゃなくて
+[01:18.93] 形で欲しいのです
+[01:22.93] 
+[01:21.39] 今日が何の日かお忘れですか？
+[01:24.92] でも誕生日なんて言うのもちょっと癪ね
+[01:28.76] もうきらい！
+[01:31.76] 
+[01:47.45] 結婚するとかしないとか
+[01:49.47] 子供は何人欲しいとか
+[01:51.52] シアワセ家族計画を掲げる前に
+[01:56.06] タバコやお酒は控えるとか
+[01:58.13] 明日から真面目にやるとか
+[02:00.32] だらだら続いているじゃじゃじゃじゃじゃじゃじゃん！
+[02:12.82] 
+[02:04.14] それちょっとだけちょうだい
+[02:06.61] ねえひと口だけちょうだいなんて
+[02:09.30] あまりにも都合が良すぎじゃないの？ (Booo! Booo!)
+[02:13.41] 飽きちゃったらいらない
+[02:15.23] 残しちゃったらごめんなさいって
+[02:18.23] ...君のせいかしら？
+[02:23.73] 
+[02:19.99] ひと口だけちょうだい
+[02:22.09] もうひと口だけちょうだいなんて
+[02:24.77] 甘え上手って罪なんじゃないの？ (Booo! Booo!)
+[02:28.75] ちょっとだけちょうだい
+[02:30.90] ねえ出来たら全部ちょうだいなんて
+[02:33.44] ...君のせいかしら？
+[02:35.55] ...私のせいかしら？
+[02:37.77] やっぱ君のせいかしら
+[02:42.77] 
+[02:48.50] おしまい！
 ```
